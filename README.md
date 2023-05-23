@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola ,I'm Nandana Nair ☺👋<br>Welcome to my GitHub profile🖥⌨🖱<br>I'm a Third Year Information Technology Engineering Student at VESIT 🏫🎓
+Hola ,I'm Nandana Nair 👋<br>Welcome to my GitHub profile🖥<br>I'm a Third Year Information Technology Engineering Student at VESIT 🏫
 # ![image](https://github.com/Nandanair622/Nandanair622/assets/97756235/e55dc935-fe96-44c3-b0d1-c56ee5eb6c31)
 
 ## 🌐 Socials:
