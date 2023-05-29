@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hola ,I'm Nandana Nair 👋<br>Welcome to my GitHub profile🖥<br>I'm a Third Year Information Technology Engineering Student at VESIT 🏫
-# ![image](https://github.com/Nandanair622/Nandanair622/assets/97756235/e55dc935-fe96-44c3-b0d1-c56ee5eb6c31)
+
+<img src="https://github.com/Nandanair622/Nandanair622/assets/97756235/57d3a92c-add4-4c2c-a2b2-93e3e4214ee8" alt="Screenshot" width="500">
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandana-nair-10a883209/) 
